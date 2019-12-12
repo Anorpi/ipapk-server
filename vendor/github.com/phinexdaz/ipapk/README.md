@@ -2,7 +2,7 @@
 ipa or apk parser written in golang, aims to extract app information
 
 ## INSTALL
-	$ go get github.com/phinexdaz/ipapk
+	$ go get github.com/Anorpi/ipapk
   
 ## USE
 ```go
@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/phinexdaz/ipapk"
+	"github.com/Anorpi/ipapk"
 )
 
 func main() {
